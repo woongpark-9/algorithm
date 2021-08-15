@@ -35,7 +35,7 @@ public class A_14002 {
 					// i번째에 j번째 길이의 +1 한값을 넣어줌
 					lengths[i] = lengths[j]+1;
 					temp[i]  = j;
-					
+					// index   0  1  2  3  4  5
 					// seq     10 20 10 30 20 50
 					// lengths 1  2  1  3  2  4
 					
